@@ -4,7 +4,6 @@ import morgan from "morgan";
 import cors from "cors";
 import dotenv from "dotenv";
 import productRoutes from "./routes/productRoutes.js"
-import { Profiler } from "react";
 import { sql } from "./config/db.js";
 //jjj
 
